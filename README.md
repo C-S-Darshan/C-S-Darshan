@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🌱 <b>Currently Learning:</b> Native Android App Development<br><br>🔭 <b>Working On:</b> Solving Data Structures & Algorithms problems and building exciting projects<br><br><b>👨‍💻 Explore My Work:</b> <a href="https://github.com/C-S-Darshan?tab=repositories" target="_blank">My projects</a><br><br>💬 <b>Ask Me About:</b> Android Development<br><br>📫 <b>Let's Connect:</b> Reach out on <a href="https://www.linkedin.com/in/c-s-darshan-8b7175244" target="_blank">LinkedIn</a><br><br>⚡ <b>Fun Fact:</b> I’m a passionate PC enthusiast and love immersing myself in gaming whenever I get the chance!</p>
+<p align="left">🌱 <b>Currently Learning:</b> Native Android App Development<br><br>🔭 <b>Working On:</b> Solving Data Structures & Algorithms problems and building exciting projects<br><br><b>👨‍💻 Explore My Work:</b> <a href="https://github.com/C-S-Darshan?tab=repositories" target="_blank">My projects</a><br><br>💬 <b>Ask Me About:</b> Android Development<br><br>📫 <b>Let's Connect:</b> Reach out on <a href="https://www.linkedin.com/in/c-s-darshan-8b7175244" target="_blank">LinkedIn</a><br><br>⚡ <b>Fun Fact:</b> I’m a PC enthusiast and love immersing myself in gaming whenever I get the chance!</p>
 
 ###
 
