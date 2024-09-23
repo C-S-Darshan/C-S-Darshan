@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🌱 <b>Currently Learning:</b> Native Android App Development<br><br>🔭 <b>Working On:</b> Solving Data Structures & Algorithms problems and building exciting projects<br><br><b>👨‍💻 Explore My Work:</b> [Link to your projects]<br><br>💬 <b>Ask Me About:</b> Android Development<br><br>📫 <b>Let's Connect:</b> Reach out on [LinkedIn](Your LinkedIn URL)<br><br><b>⚡ Fun Fact:</b> I’m a passionate PC enthusiast and love immersing myself in gaming whenever I get the chance!</p>
+<p align="left">🌱 <b>Currently Learning:</b> Native Android App Development<br><br>🔭 <b>Working On:</b> Solving Data Structures & Algorithms problems and building exciting projects<br><br><b>👨‍💻 Explore My Work:</b> <a href="https://github.com/C-S-Darshan?tab=repositories" target="_blank">My projects</a><br><br>💬 <b>Ask Me About:</b> Android Development<br><br>📫 <b>Let's Connect:</b> Reach out on <a href="https://www.linkedin.com/in/c-s-darshan-8b7175244" target="_blank">LinkedIn</a><br><br>⚡ <b>Fun Fact:</b> I’m a passionate PC enthusiast and love immersing myself in gaming whenever I get the chance!</p>
 
 ###
 
@@ -60,9 +60,16 @@
 ###
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  />
+  <a href="https://www.linkedin.com/in/c-s-darshan-8b7175244" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn logo" />
+  </a>
+  <a href="mailto:darshan.cs1113@gmail.com">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail logo" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/darshan_cs1113" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="HackerRank logo" />
+  </a>
 </div>
+
 
 ###
